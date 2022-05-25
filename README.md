@@ -18,4 +18,5 @@ https://www.amazon.com/Java-Deep-Learning-Projects-Deeplearning4j-ebook/dp/B07F6
 I had issues with NetBeans error message stating file name being too long. So I had to shorten by abbreviating as follows on project files and folders.
 
 SPP = StockPricePrediction
+
 PP = PricePrediction
